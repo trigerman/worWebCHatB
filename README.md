@@ -23,14 +23,10 @@ A **Flask-based AI chatbot** that provides interactive learning support using **
 │   ├── style.css            # Custom chatbot styles
 │── chatbot.py               # AI processing logic
 │── app.py                   # Flask web server
-│── requirements.txt          # List of dependencies
+│── requirements.txt         # List of dependencies
 │── .env                     # OpenAI API key (not shared in GitHub)
-│── README.md                 # Project documentation
+│── README.md                # Project documentation
 
 
-## 📌 Installation & Setup
 
-### **1️⃣ Clone the Repository**
-```sh
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+
