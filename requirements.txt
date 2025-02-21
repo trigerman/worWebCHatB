@@ -1,0 +1,13 @@
+# Flask & Web Framework
+Flask==3.0.0
+
+# OpenAI & Language Model
+openai==1.2.3
+langchain==0.1.0
+langchain-openai==0.0.6
+python-dotenv==1.0.0
+
+# Data Processing & Embeddings
+numpy==1.24.2
+
+# Frontend (Bootstrap, jQuery - handled via CDN, but add if needed)
